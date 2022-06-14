@@ -59,5 +59,7 @@ Telemarketing (yes/no) - loan acquisition bank campaign
       
       NOTE: Two different lines of code will be available: a) XGBoost_2.R is the R code to run with the original
       data set: bank-full.csv ; it takes more time running! b) XGBoost_bank.R is the shiny code to runwith the DataSample.csv data set.
-      To check the shiny site go to:   https://inisghtdiscovery.shinyapps.io/BankLoan/
+      To check the shiny site go to:  
+      
+   https://inisghtdiscovery.shinyapps.io/BankLoan/
       
